@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+    <!--
+    prompt("Did you workout yet?","");
+   //-->
+    </script>
+    <title>My Weekly Workout Jounral</title>
+  
+  </head>
+  <font size="1.5">
+  <body bgcolor="lightblue">
+    <h3 align="center">The Workout<h3>
+    <table bgcolor="white" border="solid" align="center" width="800px" height="800px">
+      <thead>
+        <tr>
+          <th align="center" width="50px" height="50px">Sunday</th>
+          <th align="center" width="50px" height="50px">Monday</th>
+          <th align="center" width="50px" height="50px">Tuesday</th>
+          <th align="center" width="50px" height="50px">Wednesday</th>
+          <th align="center" width="50px" height="50px">Thursday</th>
+          <th align="center" width="50px" height="50px">Friday</th>
+          <th align="center" width="50px" height="50px">Saturday</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center" width="75px" height="75px">Chest</td>
+          <td align="center" width="75px" height="75px">Rest</td>
+          <td align="center" width="75px" height="75px">Shoulders and Back</td>
+          <td align="center" width="75px" height="75px">Rest and Reiki</td>
+          <td align="center" width="75px" height="75px">Legs</td>
+          <td align="center" width="75px" height="75px">TGIFuck it I'm resting</td>
+          <td align="center" width="75px" height="75px">Arms</td>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">Bench Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight: </th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Deadlifts<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Leg Extensions<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Seated Curling Machine<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">In-Cline Bench Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Pulldown<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Leg Curls<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Seated Tricept Curling Machine<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">Decline Bench Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Close-Grip Pulldown<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Dumbell Squats<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Cable Triceps Extensions<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">Seated Cable Fly<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Single Arm Dumbell Row<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Leg Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Cable Hammer Curls<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">Seated Cable Bench Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Back Extensions<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Lying Leg Curls<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Reverse Curl Bar Pulldowns<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">21's Arm Curls and Upright Row<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Front Dumbell Raises<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Standing Calf Raises<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">21's Arm Curls<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+        <tr>
+          <th width="150px" height="150px">Dips<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Overhead Press<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Dumbbell Walking Lunges<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+          <th width="150px" height="150px"></th>
+          <th width="150px" height="150px">Dips<br>Set 1: <br>Weight: <br><br>Set 2: <br>Weight: <br><br>Set 3: <br>Weight: <br><br>Set 4: <br>Weight: <br><br>Set 5: <br>Weight:</th>
+        </tr>
+      </tbody>
+      <tfoot>
+      </tfoot>
+    </table>
+  <script>
+  </script>
+  </body>
+</html>
